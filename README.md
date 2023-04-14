@@ -1,2 +1,2 @@
 # Everyday-Java
-A repository of minor Java based projects 
+A repository of minor Java based projects.
